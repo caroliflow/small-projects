@@ -1,3 +1,3 @@
-## beginner projects
+## Small Projects
 
-projetos desenvolvidos no estudo de Javascript
+
